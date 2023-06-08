@@ -1,0 +1,21 @@
+.wrapper {
+  margin: 15% ;
+  width: 380px;
+  
+}
+
+h1 {
+  font: 800 32px "Mulish";
+  color: #151515;
+}
+p {
+  width: 357px;
+  font: 400 14px "Mulish";
+  color: #151515;
+  margin-top: 1%;
+}
+h3 {
+  font: 600 14px "Mulish";
+  color: #151515;
+  margin-top: 3%;
+}
